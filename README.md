@@ -45,9 +45,9 @@ const short GAME_TICK = 1;
 const short HOUR_IN_SECONDS = 3600;
 const long SIMULATIONS = 10000000; (* How many mob simulations you want to run (1000 - 10,000,000 is goood)
 ```
-Then compile the script using gcc
-`gcc iw_rpg_battle_sim.c`
-This will create an output file `a.out` that you can run
+Then compile the script using gcc  
+`gcc iw_rpg_battle_sim.c`  
+This will create an output file `a.out` that you can run  
 ```
 ./a.out
 Sim Iterations: 10000000
